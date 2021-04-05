@@ -1,5 +1,3 @@
-Hola me llamo Daniel Larenas y quiero aprender a usar Git y análisis de datos.
+Hola me llamo Daniel Larenas y quiero aprender a usar Git.
 
-Vivo en Quito.
-
-Tengo 26 años, el 13 de Abril cumplo 27, nací en 1994.
+Mañana hablaré de mi vida laboral.
