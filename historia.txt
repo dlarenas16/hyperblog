@@ -2,4 +2,4 @@ Hola me llamo Daniel Larenas y quiero aprender a usar Git y análisis de datos.
 
 Vivo en Quito.
 
-Tengo 26 años, el 13 de Abril cumplo 27.
+Tengo 26 años, el 13 de Abril cumplo 27, nací en 1994.
