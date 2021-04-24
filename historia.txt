@@ -2,6 +2,3 @@ Hola me llamo Daniel Larenas y quiero aprender a usar Git.
 
 Mañana hablaré de mi vida laboral.
 
-Master 1
-
-Master 2
